@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fadhiilrachman/ossdao.git"
+    "url": "git+https://github.com/yogioioi515/amz/ossdao.git"
   },
   "keywords": [
     "github",
     "contrib-bot"
   ],
-  "author": "Merk Kremont",
+  "author": "Yogi Hariadi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fadhiilrachman/ossdao/issues"
+    "url": "https://github.com/yogioioi515/amz/issues"
   },
-  "homepage": "https://github.com/fadhiilrachman/ossdao#readme",
+  "homepage": "https://github.com/yogioioi515/amz/#readme",
   "dependencies": {
     "axios": "^0.24.0",
     "dotenv": "^10.0.0",
